@@ -11,7 +11,9 @@
 // 3	"Odd"
 // 4	"Even"
 
-function solution() {
-  const answer = '';
-  return answer;
+function solution(num) {
+  return num % 2 === 0 ? "Even" : "Odd";
 }
+
+// 실행을 위한 테스트코드
+console.log(solution(1));
