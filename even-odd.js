@@ -16,4 +16,4 @@ function solution(num) {
 }
 
 // 실행을 위한 테스트코드
-console.log(solution(1));
+console.log(solution(2));
